@@ -36,3 +36,13 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+
+Goal: 
+
+Setup as personal site to present my posts, tweets, portfolios, apps, etc
+
+The posts should utilise notion as posts CMS
+tweets, under consideration
+portfolios, like resume
+apps, projects or tools of mine
