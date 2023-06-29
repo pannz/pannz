@@ -46,3 +46,12 @@ The posts should utilise notion as posts CMS
 tweets, under consideration
 portfolios, like resume
 apps, projects or tools of mine
+collections, collections of good things
+
+
+
+Plans:
+
+[] landing page
+[] use notion as blog posts
+[] ...
