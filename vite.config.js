@@ -1,7 +1,7 @@
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
 import UnoCSS from 'unocss/vite'
-import presetMini from '@unocss/preset-mini'
+import presetWind from '@unocss/preset-wind'
 import extractorSvelte from '@unocss/extractor-svelte'
 import presetIcons from '@unocss/preset-icons'
 import Icons from 'unplugin-icons/vite'
@@ -12,7 +12,7 @@ export default defineConfig({
 		UnoCSS({
 			extractors: [extractorSvelte],
 			presets: [
-				presetMini(),
+				presetWind(),
 				// presetMini({
 				// 	theme: {
 				// 		colors: {

@@ -1,13 +1,12 @@
 <script>
   import '@unocss/reset/tailwind-compat.css'
   import 'uno.css'
+
+  import Header from '$lib/components/Header.svelte'
 </script>
 
-<div class='w-300 m-auto'>
-  <header class='flex justify-between my-4'>
-    <img class="w-10 h-10" src='./favicon.png' alt='zhifan' />
-    <div>navigations</div>
-  </header>
+<div class='w-150 md:w-180 lg:w-240 m-auto text-6'>
+  <Header />
   <slot />
 </div>
 
@@ -16,7 +15,7 @@
   <title>Zhifan</title>
   <style>
     body {
-        background: mediumslateblue;
+        background: aliceblue;
     }
   </style>
 </svelte:head>

@@ -10,25 +10,26 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
-		"@iconify/json": "^2.2.82",
+		"@iconify/json": "^2.2.85",
 		"@sveltejs/adapter-auto": "^2.1.0",
-		"@sveltejs/kit": "^1.20.5",
-		"@unocss/core": "^0.53.3",
-		"@unocss/extractor-svelte": "^0.53.3",
-		"@unocss/preset-icons": "^0.53.3",
-		"@unocss/preset-mini": "^0.53.3",
-		"eslint": "^8.43.0",
+		"@sveltejs/kit": "^1.21.0",
+		"@unocss/core": "^0.53.4",
+		"@unocss/extractor-svelte": "^0.53.4",
+		"@unocss/preset-icons": "^0.53.4",
+		"@unocss/preset-wind": "^0.53.4",
+		"eslint": "^8.44.0",
 		"eslint-config-prettier": "^8.8.0",
-		"eslint-plugin-svelte": "^2.31.1",
+		"eslint-plugin-svelte": "^2.32.2",
 		"prettier": "^2.8.8",
 		"prettier-plugin-svelte": "^2.10.1",
-		"svelte": "^4.0.0",
-		"unocss": "^0.53.3",
+		"svelte": "^4.0.1",
+		"unocss": "^0.53.4",
 		"unplugin-icons": "^0.16.3",
 		"vite": "^4.3.9"
 	},
 	"type": "module",
 	"dependencies": {
-		"@unocss/reset": "^0.53.3"
+		"@beat-no/svelte-notion-blocks": "^0.0.19",
+		"@unocss/reset": "^0.53.4"
 	}
 }
