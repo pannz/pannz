@@ -1,0 +1,11 @@
+body {
+    background: lightsalmon;
+    /* 霞鹜文楷 */
+    font-family: "LXGW WenKai", sans-serif;
+    font-weight: lighter;
+}
+
+/* 霞鹜文楷 Mono */
+pre, code {
+    font-family: "LXGW WenKaiMono", monospace;
+}

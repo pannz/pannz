@@ -22,7 +22,7 @@
 		"eslint-plugin-svelte": "^2.32.2",
 		"prettier": "^2.8.8",
 		"prettier-plugin-svelte": "^2.10.1",
-		"svelte": "^4.0.1",
+		"svelte": "^3.59.2",
 		"unocss": "^0.53.4",
 		"unplugin-icons": "^0.16.3",
 		"vite": "^4.3.9"
@@ -30,6 +30,8 @@
 	"type": "module",
 	"dependencies": {
 		"@beat-no/svelte-notion-blocks": "^0.0.19",
-		"@unocss/reset": "^0.53.4"
+		"@unocss/reset": "^0.53.4",
+		"ofetch": "^1.1.1",
+		"txml": "^5.1.1"
 	}
 }
